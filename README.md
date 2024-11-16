@@ -37,7 +37,7 @@ The **Quiz App** is a React-based web application where users answer multiple-ch
 
 ## Live Demo
 
-You can try the live version of the app hosted on [Vercel](https://quiz-app-delta-sandy.vercel.app/).
+You can try the live version of the app hosted on [Vercel](https://quiz-rush-react.vercel.app/).
 
 ## How to Run Locally
 
@@ -46,8 +46,8 @@ To run the project locally:
 1. Clone the repository:
    
 ```bash
-git clone https://github.com/atulkkale/quiz-app.git
-cd quiz-app
+git clone https://github.com/atulkkale/quiz-rush.git
+cd quiz-rush
 ```
 
 2. Install dependencies:
