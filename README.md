@@ -1,6 +1,6 @@
-# Quiz App
+# Quiz Rush
 
-The **Quiz App** is a React-based web application where users answer multiple-choice questions within a 10-second time limit. The app includes a timer, visual feedback for correct/incorrect answers, and a detailed report card at the end, displaying performance stats such as skipped, correctly answered, and incorrectly answered questions.
+The **Quiz Rush** is a React-based web application where users answer multiple-choice questions within a 10-second time limit. The app includes a timer, visual feedback for correct/incorrect answers, and a detailed report card at the end, displaying performance stats such as skipped, correctly answered, and incorrectly answered questions.
 
 ## Features
 
